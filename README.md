@@ -8,22 +8,6 @@ This Heart Disease Risk Analytics Dashboard which I built for advanced cardiovas
 
 ---
 
-## 📬 Author
-
-**Gbenga Kajola**
-
-[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
-
-[Portfolio](https://kajolagbenga.netlify.app)
-
-[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
-
-[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
-
-[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
-
----
-
 ## 📊 Project Overview
 
 This dashboard provides an end-to-end data exploration of heart disease risk indicators across different demographics and behavioral profiles. The tool allows users to:
@@ -138,7 +122,7 @@ The dataset used for this dashboard contains patient medical and behavioral reco
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/prodigy234/Heart_Disease_Risk_Analysis_Dashboard.git
+    git clone https://github.com/MeAkash77/Heart-Disease-Risk-Analysis.git
     cd heart-disease-dashboard
     ```
 
@@ -166,7 +150,7 @@ The dashboard includes a button to download a full Word-format analytics report 
 
 For feedback or collaborations, reach out at:
 
-📧 **k.gbenga234@gmail.com**
+📧 **iakshu845@gmail.com**
 
 ---
 
