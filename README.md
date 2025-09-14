@@ -4,7 +4,7 @@ This project is a robust and interactive Streamlit dashboard that analyzes heart
 
 ---
 
-This Heart Disease Risk Analytics Dashboard which I built for advanced cardiovascular insights can be accessed live on Streamlit [Here](https://heartanalytics.streamlit.app/)
+This Heart Disease Risk Analytics Dashboard which I built for advanced cardiovascular insights can be accessed live on Streamlit [Here](https://heart-disease-risk-analysis.streamlit.app/)
 
 ---
 
